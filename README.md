@@ -1,6 +1,4 @@
-# [DEPRECATED] MjolnirRecyclerView - This library is no longer maintained and it will not receive any more updates. 
 
-==========
 
 [![CircleCI](https://circleci.com/gh/infinum/MjolnirRecyclerView/tree/master.svg?style=svg&circle-token=d7d31554a2af2654f26885397e9dda150cc07428)](https://circleci.com/gh/infinum/MjolnirRecyclerView/tree/master)
 [![JCenter](https://img.shields.io/badge/JCenter-2.2.0-red.svg?style=flat)](https://bintray.com/infinum/android/mjolnirrecyclerview/view)
